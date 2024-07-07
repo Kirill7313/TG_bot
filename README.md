@@ -1,1 +1,1 @@
-# TG_bot
+# Telegram Poster Bot
