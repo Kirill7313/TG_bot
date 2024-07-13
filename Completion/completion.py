@@ -3,7 +3,7 @@ import time
 from func import *
 
 auth()
-token = '7336432770:AAHcBoc4yD_wAMqFIG8mnnTeRRKBxN8AeLU'
+token = ''
 bot = telebot.TeleBot(token)
 
 @bot.message_handler(commands=['start'])
